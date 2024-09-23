@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BattleShort
-- 👀 I’m interested in graphics and coding.
+- 👀 I’m interested in graphics and coding, sometimes in font design too.
 - 🌱 I’m currently learning Pyrhon, HTML , CSS, Linux, Phtoshop and Premiere Pro.
 - 💞️ I’m looking to collaborate on a big Company.
 - 📫 How to reach me: emrecinar026@gmail.com
